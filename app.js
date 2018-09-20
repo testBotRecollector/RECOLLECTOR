@@ -146,7 +146,7 @@ Email.prototype.setHtml = function(html) {
       
       console.log('The current weather in ' + location.city + ', ' + location.region + ' is ' + condition.temp + ' degrees.');
     });
-	console.log('FINITO METODO DELLA CHIAMATA API 10.08');
+	console.log('FINITO METODO DELLA CHIAMATA API 10.46');
 	
 	const name = agent.parameters.nombre;
 	const mail = agent.parameters.email;
